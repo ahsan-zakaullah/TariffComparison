@@ -1,4 +1,4 @@
-product Tariff Comparison
+                          Product Tariff Comparison
 This project use to calculate the costs of different products.
   _Summary_
 I am following service oriented approach and defining the seperate layer for models, repositories and services. I also written some test cases using XUnit
